@@ -1,4 +1,4 @@
-myFitBud Project
+Welcome to myFitBud project!
 
 In this Notebook, I build a predictive model that estimates the number of calories burnt during physical activity using Multiple Regression.
 
