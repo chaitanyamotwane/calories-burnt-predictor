@@ -1,10 +1,16 @@
-Welcome to myFitBud project!
-
+# Title: Calories Burnt Estimator with Regression Analysis
 In this Notebook, I build a predictive model that estimates the number of calories burnt during physical activity using Regularised Regression.
+
+## Description: 
+The primary motivation is to showcase an end-to-end data science project, from preparing the data, conducting an exploratory data analysis, building predictive models, and visualization.
 
 This analysis is valuable because it allows individuals and fitness platforms to estimate energy expenditure in real time, even when direct caloric measurement is unavailable. Understanding how different variables contribute to calorie burn — especially across genders — can improve fitness tracking, personalize workout recommendations, and enhance health analytics.
 
-Project Goals
+The analysis is conducted in Python and JupyterNotebook, 
+
+As an athlete and programmer, while using the application myFitnessPal one summer, I thought to myself "what's going on under the hood?" and was insipired to build this model.
+
+## Project Goals:
 - Build a predictive model to estimate Calories Burnt based on physiological and workout-related features such as Workout Duration, Heart Rate, Body Temperature, Gender, Height, Weight, and Age.
 - Understand which features influence calories burnt, in general, and across genders.
 - Apply a range of Unsupervised Learning techniques, including data visualizations, Principal Component Analysis (PCA), and clustering, to explore patterns and structure in the data.
