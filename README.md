@@ -18,20 +18,22 @@ As an athlete and programmer, while using the application myFitnessPal one summe
 - Develop a workflow that is reproducible and transferable, so that the techniques and concepts used here can be applied to other datasets.
 
 ## Technology:
-The analysis is conducted in Python and JupyterNotebook.
-Libraries: 
+The analysis is conducted in Python and JupyterNotebook, with libraries:
 - pandas
 - numpy
-- matplotlib
+- matplotlib, seaborn
 - scikitLearn
 - statsmodels
 
 ## Techniques:
 - Principle Component Analysis (PCA)
-- Clustering
+- K-means Clustering
 - Visualization
+- Cross Validation
 - OLS and Regularised Regression
 - Interaction Modeling
+- RMSE, Adjuster R2
+- Bias-Variance Tradeoff
 
 ## Further Study:
 As a further study, additional ML models like random forests, SVM, XGBoost can be built on this dataset.
