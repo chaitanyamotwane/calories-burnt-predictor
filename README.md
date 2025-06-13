@@ -1,4 +1,4 @@
-# Title: Calories Burnt Estimator with Regression Analysis
+# Title: Calories Burnt Predictor and Fitness Data EDA
 In this Notebook, I build a predictive model that estimates the number of calories burnt during physical activity using Regularised Regression.
 
 ## Description: 
